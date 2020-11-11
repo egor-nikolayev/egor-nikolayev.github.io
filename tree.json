@@ -11,7 +11,14 @@
     {
       "dn": "id2",
       "name": "container data2",
-      "data": "any meta-data attached with the container"
+      "data": "any meta-data attached with the container",
+      "subContainers": [
+        {
+          "dn": "id3",
+          "name": "container data3",
+          "icon": "glyphicon glyphicon-cloud"
+        }
+      ]
     }
   ]
 }
