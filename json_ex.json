@@ -1,5 +1,10 @@
 {
     "fruit": "Apple",
     "size": "Large",
-    "color": "Red"
+    "color": "Red",
+    "child":    [
+        {
+            "fruit": "Apple"
+        }
+    ]
 }
